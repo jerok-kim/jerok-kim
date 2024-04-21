@@ -9,6 +9,7 @@ I like:
 - Coffee
 - Studying
 - Problem solving
+- Boxing
 
 🦀Rustacean
 
