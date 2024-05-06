@@ -3,7 +3,7 @@
 I'm working on/with:
 - Automotive
 - Ethernet(SOME/IP)
-- Android
+- Android, QNX, cluster, next gen cluster
 - Rust, C++, Java, Kotlin
 
 I like:
