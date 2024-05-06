@@ -2,8 +2,9 @@
 
 I'm working on/with:
 - Automotive
+- Ethernet(SOME/IP)
 - Android
-- Kotlin
+- Rust, C++, Java, Kotlin
 
 I like:
 - Coffee
